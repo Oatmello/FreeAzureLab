@@ -28,22 +28,5 @@ Now that your done signing up, let's log into the azure portal.
 <!--azure4--><img src="https://raw.githubusercontent.com/Oatmello/Markdowns/main/AD-Aure-Images/azure4.png" />
 
 
-<!--azure4--><img src="" />
 
-
-<!--azure4--><img src="" />
-
-
-<!--azure4--><img src="" />
-
-<!--azure4--><img src="" />
-
-
-<!--azure4--><img src="" />
-
-
-<!--azure4--><img src="" />
-
-
-<!--azure4--><img src="" />
 
